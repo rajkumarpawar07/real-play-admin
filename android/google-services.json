@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "160171488968",
+    "firebase_url": "https://real-play-app-default-rtdb.firebaseio.com",
+    "project_id": "real-play-app",
+    "storage_bucket": "real-play-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160171488968:android:e2dbdc4906d76e640bd7fd",
+        "android_client_info": {
+          "package_name": "com.example.firstinternshipproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHiJJAWx1ThKZyfv1H5h0UMYn6HuBG68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160171488968:android:dfeed0442ff7873b0bd7fd",
+        "android_client_info": {
+          "package_name": "com.example.realplayadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoHiJJAWx1ThKZyfv1H5h0UMYn6HuBG68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
